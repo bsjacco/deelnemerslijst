@@ -1,6 +1,6 @@
 Naam: **Harm Lammers**   
 
-![Harm Lammers](../images/willy-tadema.jpg) 
+![Harm Lammers](../images/harm-lammers.jpg) 
 
 Organisatie: Sogeti, Kennisnetwerk Data Science Noord-Nederland
 
